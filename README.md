@@ -13,7 +13,7 @@ Showing all restaurants in the world.
 1. Install NodeJS 18
 2. Clone this repository
 
-`git clone `
+`git clone https://github.com/Sutrisno42/FrontendDevReactjs-Restaurants-Sutrisno.git`
 
 3. Install packages/dependencies
 
@@ -26,3 +26,4 @@ Showing all restaurants in the world.
 -   or In production mode `yarn build` then `yarn preview`, open url: _localhost:3000_
 
 5. Demo
+`https://melia-sekawanmedia.vercel.app/`
